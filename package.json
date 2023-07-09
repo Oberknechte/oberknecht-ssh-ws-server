@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Oberknechte/oberknecht-ssh-ws-server#readme",
   "dependencies": {
-    "oberknecht-ssh-ws": "^0.0.2"
+    "oberknecht-ssh-ws": "^0.0.3"
   }
 }
